@@ -1,0 +1,16 @@
+---
+layout: archive
+title: "Experience"
+permalink: /experience/
+author_profile: true
+---
+
+{% include base_path %} {% for entry in site.experience reversed %}
+<!-- <h2><a href="{{ entry.url }}">{{ entry.title }}</a></h2>
+<p><strong>Company:</strong> {{ entry.company }}</p>
+<p><strong>Location:</strong> {{ entry.location }}</p>
+<p><strong>Duration:</strong> {{ entry.duration }}</p> -->
+
+<p>{{ entry.content | markdownify }}</p>
+<hr />
+{% endfor %}
