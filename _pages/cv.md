@@ -95,6 +95,10 @@ Honors Program, Baseball Scholarship Recipient, Create-X I2P Grant, Dean’s Lis
 - Built an NBA player data and odds API pipeline using Pandas and NumPy to collect data, train a regression model, and make predictions based on previous game performance, achieving a 51.7% success rate (0.5% edge on sportsbooks).
 - Received a $500 grant through Georgia Tech Create-X Idea to Prototype (I2P) Startup Program.
 
+## Download Resume
+
+[View CV PDF](/files/JaiDesaiResume.pdf)
+
 <!-- ---
 layout: archive
 title: "CV"
