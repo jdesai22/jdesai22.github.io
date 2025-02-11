@@ -14,5 +14,7 @@ excerpt: "Developed Python scripts and conducted deep learning model evaluation 
 **Location:** New Haven, CT  
 **Duration:** March 2021 – June 2022
 
-- Developed Python scripts to clean and annotate data for deep learning summarization models.
-- Conducted human evaluation of model performance, achieving state-of-the-art results.
+- Language, Information, and Learning Lab at Yale. Worked with undergraduate students, graduate students, Facebook AI researchers, and Yale faculty professor.
+- Contributed to two papers with a new dialogue dataset and novel contrastive fine-tuning method.
+- Helped develop new taxonomy of model hallucinations and summarizations errors.
+- Developed Python scripts to clean and annotate data for deep learning summarization models. Conducted human evaluation of model performance and achieved state-of-the-art results using taxonomy-based training strategy.

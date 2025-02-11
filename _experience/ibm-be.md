@@ -14,7 +14,8 @@ excerpt: "Developed a session ID middleware for event tracking, handling 900+ us
 **Location:** Research Triangle Park, NC  
 **Duration:** May 2023 – August 2023
 
-- Designed a session ID engine middleware in Express.js to process product usage events.
-- Managed over 900 unique users per minute and stored 30,000+ session IDs in Redis cache.
-- Provided session ID data that helped track user behavior and increase trial-to-paid conversions.
-- Deployed a Python cron job to automate documentation for team developers.
+- Product Led Growth Team - helping IBM product grow their customer base by tracking user actions and providing actionable insights.
+- Designed Session ID engine middleware for product usage webhook in express.js that received events from aggregated source (Segment), enriched the event with Session IDs, and sent the data to IBM source such as DB2, Amplitude, Kafka, and Cloud Object Storage, enabling product owners to understand product usage patterns.
+- Efficiently managed over 900 unique users per minute and stored >30,000 Session IDs in Redis cache instance.
+- Provided critical Session ID information that supported executive requests to track user cart abandonment and help clients convert more users from trial to paid versions, along with other time-based attributes.
+- Deployed Python cron job to automate generation of a markdown resource for team developers, consolidating all documentation for team developers and offering comprehensive overview for new or unfamiliar team members.
