@@ -1,17 +1,17 @@
 ---
-title: "Incoming Stripe Software Engineering Intern"
+title: "Stripe Software Engineering Intern"
 collection: experience
 permalink: /experience/stripe-intern
 company: "Stripe"
-location: "Seattle, WA"
+location: "South San Francisco, CA"
 duration: "May 2025 – August 2025"
-excerpt: "Upcoming internship at Stripe as a Software Engineering Intern."
+excerpt: "Upcoming internship at Stripe as a Software Engineering Intern on Revenue Intelligence Team."
 ---
 
-## Incoming Stripe Software Engineering Intern
+## Stripe Software Engineering Intern
 
 **Company:** Stripe  
-**Location:** Seattle, WA  
+**Location:** South San Francisco, CA  
 **Duration:** May 2025 – August 2025
 
-- Upcoming internship, details to be determined.
+- Intern on Revenue Intelligence Team.
